@@ -1,0 +1,27 @@
+{
+	"config": [
+		{
+			"header_text_color": "#ffffff",
+			"config_name": "deafult template",
+			"description": "This is a zeroblog site based on angular.js. stay tuned!",
+			"bg_image": "http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2012/01/21background-pattern.jpg",
+			"title": "ng zero blog",
+			"postsOrderBy": "date_added",
+			"json_id": 4,
+			"link_color": "#2a4671",
+			"postsPerPage": 5,
+			"author_name": "ngZero",
+			"author_about": "some info about the owner(s) of the blog",
+			"current": 1,
+			"bg_color": "#0793e2",
+			"config_id": 1,
+			"bg_image_header": "http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2014/05/003+background+pattern+designs.jpg",
+			"postsOrderDir": "DESC",
+			"header_bg_color": null,
+			"logo": "https://material.angularjs.org/latest/img/icons/angular-logo.svg",
+			"author_id": "davidnelband@zerobit.id",
+			"text_color": "#3c2f2f",
+			"fg_color": "hsl(31, 100%, 90%)"
+		}
+	]
+}

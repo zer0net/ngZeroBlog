@@ -1,0 +1,26 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"post_id": 25,
+			"user_id": "davidnelband@zeroid.bit",
+			"body": "a new comment",
+			"date_added": 1469114158802
+		},
+		{
+			"comment_id": 2,
+			"post_id": 13,
+			"user_id": "davidnelband@zeroid.bit",
+			"body": "firrst textx xt",
+			"date_added": 1469129274147
+		},
+		{
+			"comment_id": 3,
+			"post_id": 23,
+			"user_id": "davidnelband@zeroid.bit",
+			"body": "another comment",
+			"date_added": 1469137015048
+		}
+	]
+}
